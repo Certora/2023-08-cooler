@@ -1,9 +1,5 @@
 
-# Cooler Update contest details
-
-- Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
-- Submit findings using the issue page in your private contest repo (label issues as med or high)
-- [Read for more details](https://docs.sherlock.xyz/audits/watsons)
+# Cooler  
 
 # Q&A
 
@@ -54,9 +50,6 @@ ___
 None
 ___
 
-### Q: Please provide links to previous audits (if any).
-https://github.com/sherlock-audit/2023-01-cooler-judging
-___
 
 ### Q: Are there any off-chain mechanisms or off-chain procedures for the protocol (keeper bots, input validation expectations, etc)?
 yes, the clearinghouse incentivizes keepers to claim defaulted loans, so that that debt can be written off and the corresponding collateral burned.
